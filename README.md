@@ -8,12 +8,28 @@ I combine financial knowledge with data tools (Power BI, SQL, Excel) to solve bu
 - **Tools:** Power BI, SQL, Excel (Dashboards, FP&A)  
 - **Reporting:** MIS, Reconciliations, Data Visualization
 - ### 📊 Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
+# Bank M&A Dashboard (Excel + Power BI)
 
-| [Financial Dashboard]([Portfolio.xlsx](https://github.com/user-attachments/files/23900940/Portfolio.xlsx)
-sx) | Interactive Excel/Power BI dashboard for P&L & cash flow |[Bank Analysis.pdf](https://github.com/user-attachments/files/23900939/Bank.Analysis.pdf)
+## Skills Demonstrated
+- Financial modelling (ROA, ROE, CIR, YOA, YOI)
+- Power BI dashboarding
+- Excel data modelling
+- Pre vs post M&A event analysis
+
+## Objective
+Analyse the impact of mergers & acquisitions on bank competitiveness in India using 5 years of financial data.
+
+## Files Included
+- Bank_MA_Dashboard.xlsx | [Financial Dashboard]([Portfolio.xlsx](https://github.com/user-attachments/files/23900940/Portfolio.xlsx)
+sx)
+- Bank_MA_Dashboard.pbix |[Bank Analysis.pdf](https://github.com/user-attachments/files/23900939/Bank.Analysis.pdf)
  Power BI, Excel |
+
+## Insights
+- Profitability increased post-merger
+- CIR improved → higher efficiency
+- Lending yields (YOA) showed uptrend
+ | Interactive Excel/Power BI dashboard for P&L & cash flow
 
 ###  Connect
 - www.linkedin.com/in/harshada-shinde18
