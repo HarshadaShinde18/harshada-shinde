@@ -33,6 +33,4 @@ sx)
 
 ###  Connect
 - www.linkedin.com/in/harshada-shinde18
-- [Email](mailto:harshadashinde200018@gmail.com)
-
-- •	Financial Model: Sanctuary Hill Country Residential Development (Independent Project)       
+- [Email](mailto:harshadashinde200018@gmail.com)     
