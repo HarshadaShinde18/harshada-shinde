@@ -8,8 +8,7 @@ I combine financial knowledge with data tools (Power BI, SQL, Excel) to solve bu
 - **Tools:** Power BI, SQL, Excel (Dashboards, FP&A)  
 - **Reporting:** MIS, Reconciliations, Data Visualization
 - ### 📊 Projects
-# Bank M&A Dashboard (Excel + Power BI)
-**#Financial Model: Sanctuary Hill Country Residential Development (Independent Project)**       
+# Bank M&A Dashboard (Excel + Power BI)      
 
 ## Skills Demonstrated
 - Financial modelling (ROA, ROE, CIR, YOA, YOI)
@@ -35,3 +34,5 @@ sx)
 ###  Connect
 - www.linkedin.com/in/harshada-shinde18
 - [Email](mailto:harshadashinde200018@gmail.com)
+
+- •	Financial Model: Sanctuary Hill Country Residential Development (Independent Project)       
