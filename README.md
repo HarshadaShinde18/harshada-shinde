@@ -9,6 +9,7 @@ I combine financial knowledge with data tools (Power BI, SQL, Excel) to solve bu
 - **Reporting:** MIS, Reconciliations, Data Visualization
 - ### 📊 Projects
 # Bank M&A Dashboard (Excel + Power BI)
+**#Financial Model: Sanctuary Hill Country Residential Development (Independent Project)**       
 
 ## Skills Demonstrated
 - Financial modelling (ROA, ROE, CIR, YOA, YOI)
@@ -24,7 +25,7 @@ Analyse the impact of mergers & acquisitions on bank competitiveness in India us
 sx)
 - Bank_MA_Dashboard.pbix |[Bank Analysis.pdf](https://github.com/user-attachments/files/23900939/Bank.Analysis.pdf)
  Power BI, Excel |
-
+•	Financial Model: Sanctuary Hill Country Residential Development (Independent Project)       
 ## Insights
 - Profitability increased post-merger
 - CIR improved → higher efficiency
